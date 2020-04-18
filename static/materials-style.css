@@ -1,0 +1,114 @@
+h1,h2,h3{
+	font-family: 'Dancing Script', cursive;
+}
+
+p,a,input,label,textarea,span,ul,li{
+	font-family: 'Karla', sans-serif;
+}
+
+header{
+	background-color: #AFEEEE;
+}
+
+header nav img{
+	width: 130px;
+}
+
+header li{
+	font-size: 23px;
+	margin: 0 20px;
+}
+
+#exercise{
+	padding: 80px 0px;
+}
+
+#exercise h3{
+	font-size: 60px;
+	line-height: 1;
+	margin-bottom: 80px;
+}
+
+#exercise .lead img {
+	width: 50px;
+}
+
+#exercise .lead {
+	margin-top: 30px;
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration:underline;
+}
+
+#exercise .outer{
+	background-color: white;
+	box-shadow: 0 0 8px 0 #DCDCDC;
+}
+
+#exercise img{
+	max-width: 100%;
+}
+
+#exercise .lower h4{
+	font-size: 30px;
+	margin-bottom: 12px;
+	margin-top: 12px;
+}
+
+#exercise .lower p{
+	font-size: 25px;
+}
+
+.lower{
+	height: 250px;
+	padding: 20px 90px 50px 50px;
+}
+
+#exercise a{
+	color: black;
+}
+
+#exercise a:hover{
+	text-decoration: none;
+}
+
+.btn{
+	font-size: 30px;
+	background: #AAAAAA;
+	position: absolute;
+	bottom: 0px;
+	height: 80px;
+	width: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer{
+	margin-top: 30px;
+	background-color: #F0FFFF;
+}
+
+footer h5{
+	font-size: 25px; 
+	margin-bottom: 10px;
+}
+
+footer ul{
+	list-style: none;
+	padding: 0;
+	float: left;
+	margin-right: 20px;
+}
+
+footer h5{
+	text-decoration:underline;
+}
+
+footer ul li{
+	color: black;
+}
+
+footer a{
+	color: black;
+}

@@ -1,0 +1,100 @@
+h1,h2,h3{
+	font-family: 'Dancing Script', cursive;
+}
+
+p,a,input,label,textarea,span,ul,li{
+	font-family: 'Karla', sans-serif;
+}
+
+header{
+	background-color: #AFEEEE;
+}
+
+header nav img{
+	width: 130px;
+}
+
+header li{
+	font-size: 23px;
+	margin: 0 20px;
+}
+
+section {
+	margin-top: 50px;
+}
+
+#course h1{
+	font-size: 50px;
+}
+
+#course .main{
+	margin-top: 30px;
+	width: 350px;
+}
+
+#course .lead img {
+	width: 50px;
+}
+
+#course .courseIntro .lead {
+	margin-top: 20px;
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration:underline;
+	display: inline;
+}
+
+#course .detail .lead {
+	margin-top: 90px;
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration:underline;
+}
+
+.courseIntro p{
+	margin-top: 20px;
+	line-height: 1.5;
+	font-size: 20px;
+}
+
+.detail p{
+	font-size: 30px;
+}
+
+.btn{
+	margin-top: 30px;
+	font-size: 30px;
+	background: #AAAAAA;
+	color: #FFFFFF;
+	padding: 9px 26px;
+	border-radius: 20px;
+}
+
+footer{
+	margin-top: 30px;
+	background-color: #F0FFFF;
+}
+
+footer h5{
+	font-size: 25px; 
+	margin-bottom: 10px;
+}
+
+footer ul{
+	list-style: none;
+	padding: 0;
+	float: left;
+	margin-right: 20px;
+}
+
+footer h5{
+	text-decoration:underline;
+}
+
+footer ul li{
+	color: black;
+}
+
+footer a{
+	color: black;
+}

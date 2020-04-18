@@ -1,0 +1,49 @@
+h1,h2,h3{
+	font-family: 'Dancing Script', cursive;
+}
+
+p,a,input,label,textarea,span,ul,li{
+	font-family: 'Karla', sans-serif;
+}
+
+header{
+	background-color: #AFEEEE;
+}
+
+header nav img{
+	width: 130px;
+}
+
+header li{
+	font-size: 23px;
+	margin: 0 20px;
+}
+
+footer{
+	margin-top: 40px;
+	background-color: #F0FFFF;
+}
+
+footer h5{
+	font-size: 25px; 
+	margin-bottom: 10px;
+}
+
+footer ul{
+	list-style: none;
+	padding: 0;
+	float: left;
+	margin-right: 20px;
+}
+
+footer h5{
+	text-decoration:underline;
+}
+
+footer ul li{
+	color: black;
+}
+
+footer a{
+	color: black;
+}
